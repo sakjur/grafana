@@ -45,7 +45,7 @@ require (
 	github.com/influxdata/influxdb-client-go/v2 v2.0.1
 	github.com/jmespath/go-jmespath v0.0.0-20180206201540-c2b33e8439af
 	github.com/jonboulle/clockwork v0.2.0 // indirect
-	github.com/jung-kurt/gofpdf v1.10.1
+	github.com/jung-kurt/gofpdf v1.16.2
 	github.com/k0kubun/colorstring v0.0.0-20150214042306-9440f1994b88 // indirect
 	github.com/klauspost/compress v1.4.1 // indirect
 	github.com/klauspost/cpuid v1.2.0 // indirect
